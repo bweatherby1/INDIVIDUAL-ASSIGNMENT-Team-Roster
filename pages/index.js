@@ -15,11 +15,8 @@ function Home() {
         margin: '0 auto',
       }}
     >
-      <h1>Hello {user.displayName}! </h1>
-      <p>Click the button below to logout!</p>
-      <Button variant="danger" type="button" size="lg" className="copy-btn" onClick={signOut}>
-        Sign Out
-      </Button>
+      <h1>New England Grass Smackers</h1>
+      <h3>EAT GRASS!!</h3> <hr />
     </div>
   );
 }
