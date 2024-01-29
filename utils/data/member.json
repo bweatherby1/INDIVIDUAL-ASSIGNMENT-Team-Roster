@@ -1,9 +1,10 @@
 {
-  "{firebaseKey}" : {
-    "firebaseKey" : "{firebaseKey}",
+  "72678db94faf8db49a2a70ad5e6917038f432c59" : {
+    "team_id" : "82639992a59de315809b9da571763fc9b7e11bf8",
+    "firebaseKey" : "72678db94faf8db49a2a70ad5e6917038f432c59",
     "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbzNY51dOhQgsiU8jsDxF49-9EWn0fB4qjFh8kCTtWO2W-P6xYclIWNJFfImPkGTVBjXo&usqp=CAU",
-    "name" : "Tom Brady",
+    "name" : "Dom Grady",
     "position" : "Wide Receiver",
-    "uid" : ""
+    "uid" : "jUmDJ8MYInaOpuOaHITUWUGs7K13"
   }
 }
