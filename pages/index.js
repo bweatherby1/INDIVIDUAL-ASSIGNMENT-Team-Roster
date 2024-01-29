@@ -4,7 +4,7 @@ import TeamCard from '../components/TeamCard';
 import { getTeams } from '../api/teamData';
 
 function Home() {
-  const [teams, setTeams] = useState([])
+  const [teams, setTeams] = useState([]);
   const { user } = useAuth();
   const getAllTeams = () => {
     getTeams(user.uid).then(setTeams);
